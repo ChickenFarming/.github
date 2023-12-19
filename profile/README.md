@@ -40,7 +40,7 @@ SME/UMKM Empowerment
 
 <h3> A. Getting Started </h1>
 
-#### Prerequisites
+#### Before running the App
 <li>Using an Android version of SmartPhone</li>
 <li>Enable Internet Connection</li>
 
