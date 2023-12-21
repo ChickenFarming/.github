@@ -45,7 +45,7 @@ SME/UMKM Empowerment
 <li>Enable Internet Connection</li>
 
 #### App Installer
-<li>Get the app from our <a href="https://github.com/ChickenFarming/MD-ChickFarmApp/releases/tag/ChickFarmApp">releases page</a></li>
+<li>Get the app from our <a href="https://github.com/ChickenFarming/MD-ChickFarmApp/releases/tag/ChickFarmApp1.1.0">releases page</a></li>
 
 #### Create/Register Account
 <li>Open the app and click register</li>
